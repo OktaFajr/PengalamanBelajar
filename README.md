@@ -40,3 +40,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 Belajar git dan github
  * belajar membuat akun
  * belajar membuat repository
+ * membuat branch
+ * melakukan merge
