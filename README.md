@@ -34,3 +34,13 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+  
+**22 Juni 2021**  
+
+Belajar git dan github
+ * belajar membuat akun
+ * belajar membuat repository
+ * membuat branch
+ * melakukan merge
+ * belajar fork
+ * belajar squash
