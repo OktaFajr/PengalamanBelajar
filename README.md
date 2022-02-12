@@ -42,3 +42,5 @@ Belajar git dan github
  * belajar membuat repository
  * membuat branch
  * melakukan merge
+ * belajar fork
+ * belajar squash
